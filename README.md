@@ -3,6 +3,7 @@
 #frist create enviralment
 
 py -m venv myworld 
+
 myworld\Scripts\activate
 
 pip install django
